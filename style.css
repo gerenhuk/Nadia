@@ -56,6 +56,7 @@ body{
     background-color: white;
     color: black;
     border-radius: 20px;  
+    cursor: pointer;
 }
 
 .btn-2{
@@ -69,6 +70,7 @@ body{
     background-color: white;
     color: black;
     border-radius: 20px;  
+    cursor: pointer;
 }
 
 .btn-3{
@@ -82,6 +84,7 @@ body{
     background-color: white;
     color: black;
     border-radius: 20px;   
+    cursor: pointer;
 }
 
 .level{
@@ -133,6 +136,7 @@ body{
     color: black;
     border-radius: 20px;
     text-align: center;
+    cursor: pointer;    
 }
 
 .answers{
@@ -153,5 +157,3 @@ h3{
 .end{
     display: none;
 }
-
-
